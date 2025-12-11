@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  /* to force 100 height layout */
+}
+
+body {
+  font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+
+  text-align: center;
+  color: #ffffff;
+  background: #111111;
+  background: transparent url(back.jpg) repeat scroll top left;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 100%;
+}
+
+a {
+  color: #CCC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EC001E;
+}
